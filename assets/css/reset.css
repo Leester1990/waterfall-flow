@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 62.5%;
+    font-family: "Microsoft Yahei","Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #484848;
+    background-color: #f2f2f2;
+    /*min-width: 1000px;*/
+}
+
+img {
+    max-width: 100%;
+    border: none;
+}
+
+a {
+    color: #484848;
+    text-decoration: none;
+}
+
+b, i, em {
+    font-weight: normal;
+    font-style: normal;
+}
+
+.col-red {
+    color: #ff6600 !important;
+}
+.col-gray {
+    color: #d8d8d8 !important;
+}
